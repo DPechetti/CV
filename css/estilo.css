@@ -1,0 +1,25 @@
+body{
+	background-image: url("../img/fundo.jpg");
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+h1{
+	font-variant: small-caps;
+}
+
+h2{
+	text-shadow: 1px 1px;
+}
+
+img{
+	border-radius: 5px;
+}
+
+.direita{
+	float: right;
+	width: 200px;
+}
+
+.social{
+	width: 50px;
+}
